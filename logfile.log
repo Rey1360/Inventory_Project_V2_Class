@@ -1,0 +1,65 @@
+2026-06-27 20:39 - DEBUG - item_1 in inventory is OK
+2026-06-27 20:40 - DEBUG - Item is updated
+2026-06-27 20:41 - DEBUG - Item is updated
+2026-06-27 20:41 - DEBUG - item_1 in inventory is OK
+2026-06-27 20:41 - DEBUG - Item is updated
+2026-06-27 20:41 - DEBUG - Item is saved
+2026-06-27 20:45 - DEBUG - Item is saved
+2026-06-27 20:46 - DEBUG - Item is saved
+2026-06-27 20:46 - WARNING - file does not exist in the directory
+2026-06-27 20:47 - WARNING - file does not exist in the directory
+2026-06-27 20:48 - WARNING - drectory path does not exist
+2026-06-28 13:59 - WARNING - file does not exist in the directory
+2026-06-28 17:36 - DEBUG - Item is updated
+2026-06-28 17:36 - DEBUG - item_1 in inventory is OK
+2026-06-28 17:40 - DEBUG - Item is updated
+2026-06-29 19:54 - DEBUG - item item_1 was update in inventory file
+2026-06-29 19:54 - DEBUG - item item_7 was added to inventory file
+2026-06-29 19:54 - DEBUG - inventory file was updated
+2026-07-01 11:05 - DEBUG - Item is updated
+2026-07-01 11:05 - DEBUG - item_1 in inventory is OK
+2026-07-01 11:05 - DEBUG - Item is updated
+2026-07-01 11:05 - DEBUG - Item is saved
+2026-07-01 11:09 - WARNING - item item_1 in inventory is less than minimum threshold
+2026-07-01 11:09 - WARNING - item item_3 in inventory is less than minimum threshold
+2026-07-01 11:40 - DEBUG - Item is updated
+2026-07-01 11:40 - DEBUG - item_1 in inventory is OK
+2026-07-01 11:40 - DEBUG - Item is updated
+2026-07-01 11:40 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 11:40 - DEBUG - Item is saved
+2026-07-01 11:41 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 11:41 - DEBUG - Item is saved
+2026-07-01 11:49 - DEBUG - {'item_1': {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}, 'item_2': {'ID': 'item_2', 'quantity': '2', 'minimum': '2'}, 'item_3': {'ID': 'item_3', 'quantity': '3', 'minimum': '30'}}
+2026-07-01 11:49 - DEBUG - --------
+2026-07-01 11:49 - DEBUG - {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}
+2026-07-01 11:49 - DEBUG - --------
+2026-07-01 11:49 - DEBUG - item.__dict__
+2026-07-01 11:50 - DEBUG - {'item_1': {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}, 'item_2': {'ID': 'item_2', 'quantity': '2', 'minimum': '2'}, 'item_3': {'ID': 'item_3', 'quantity': '3', 'minimum': '30'}}
+2026-07-01 11:50 - DEBUG - --------
+2026-07-01 11:50 - DEBUG - {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}
+2026-07-01 11:50 - DEBUG - --------
+2026-07-01 11:50 - DEBUG - {'ID': 'item_1', 'quantity': 10, 'minimum': 10}
+2026-07-01 11:52 - DEBUG - content = {'item_1': {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}, 'item_2': {'ID': 'item_2', 'quantity': '2', 'minimum': '2'}, 'item_3': {'ID': 'item_3', 'quantity': '3', 'minimum': '30'}}
+2026-07-01 11:52 - DEBUG - --------
+2026-07-01 11:52 - DEBUG - content of item = {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}
+2026-07-01 11:52 - DEBUG - --------
+2026-07-01 11:52 - DEBUG - item dict = {item.__dict__}
+2026-07-01 11:53 - DEBUG - content = {'item_1': {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}, 'item_2': {'ID': 'item_2', 'quantity': '2', 'minimum': '2'}, 'item_3': {'ID': 'item_3', 'quantity': '3', 'minimum': '30'}}
+2026-07-01 11:53 - DEBUG - --------
+2026-07-01 11:53 - DEBUG - content of item = {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}
+2026-07-01 11:53 - DEBUG - --------
+2026-07-01 11:53 - DEBUG - item dict = {'ID': 'item_1', 'quantity': 30, 'minimum': 30}
+2026-07-01 12:06 - DEBUG - item name from item dict = item_1
+2026-07-01 12:06 - DEBUG - content keys = dict_keys(['item_1', 'item_2', 'item_3'])
+2026-07-01 12:06 - DEBUG - corresp dict in content before update {'ID': 'item_1', 'quantity': '1', 'minimum': '10'}
+2026-07-01 12:09 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 12:20 - DEBUG - Item (item_1) was added to inventory file
+2026-07-01 12:29 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 12:38 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 12:39 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 12:40 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 12:41 - DEBUG - Item (item_1) was update in inventory file
+2026-07-01 12:41 - DEBUG - Item (item_4) was added to inventory file
+2026-07-04 20:18 - WARNING - file does not exist in the directory
+2026-07-04 20:19 - WARNING - file does not exist in the directory
+2026-07-04 20:19 - WARNING - Directory path does not exist

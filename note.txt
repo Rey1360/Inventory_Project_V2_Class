@@ -1,0 +1,15 @@
+order/sale manual individual entry
+inventory is a saved file
+
+product class:
+intances are individual items
+methods: 
+1- create instance: item name, ID, quantity , minimum,
+2- local save order (manual)+check item vs min
+3- update sold item (manual)+check item vs min
+4- check item against (keep indpendent)
+5- save item to file
+
+invent. manager class:
+check inventory, all items 
+update inventory save file from local variables
