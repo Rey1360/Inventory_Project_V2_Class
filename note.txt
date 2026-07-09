@@ -13,3 +13,4 @@ methods:
 invent. manager class:
 check inventory, all items 
 update inventory save file from local variables
+update!
